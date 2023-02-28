@@ -2,7 +2,7 @@
 
 > Junior Full Stack Developer
 
-<div align="center">
+<div>
  <p>
 Eu sou um desenvolvedor Fullstack júnior de 17 anos com habilidades em construir sites desde o início - desde o conceito, layout, navegação e programação. Possuo conhecimentos em escrever códigos bem estruturados, testáveis e eficientes, utilizando as melhores práticas atuais em desenvolvimento web. Sou um aprendiz rápido, esforçado e um bom membro da equipe. Tenho proficiência em diversas linguagens de programação e ferramentas de desenvolvimento web.
 
@@ -24,9 +24,11 @@ Além disso, tenho habilidades em design e programação que me permitem convert
 
 [![Bernardo Meirelles GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardomrl&show_icons=true&count_private=true)](https://github.com/bernardomrl)
 
-<p align="center">
+<p>
 <a href="https://bernardomrl.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-bernardomrl.github.io-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/bernardoamrl/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@bernardoamrl-blue?style=flat&logo=linkedin"></a>
+</p>
+<p>
 <a href="codepen.io/neotic" target="_blank"><img alt="neotic" src="https://img.shields.io/badge/CodePen-NEOTIC-blue?style=flat&logo=codepen"></a>
 <a href="mailto:bernardomrl@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-bernardomrl@icloud.com-blue?style=flat"></a>
 </p>
