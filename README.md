@@ -12,10 +12,5 @@ Além disso, tenho habilidades em design e programação que me permitem convert
 
 ### Linguagens de Programação 🌐
 
-| [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/csharp.png" alt="C#" width="24">](https://learn.microsoft.com/pt-br/dotnet/csharp/) |
-| [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/css3.png" alt="CSS3" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/CSS) |
-| [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/html5.png" alt="HTML5" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |
-| [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/javascript.png" alt="JS" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
-| [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/php.png" alt="PHP" width="24">](https://php.net) |
-| [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png" alt="MYSQL" width="24">](https://mysql.com) |
+| [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/csharp.png" alt="C#" width="24">](https://learn.microsoft.com/pt-br/dotnet/csharp/) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/css3.png" alt="CSS3" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/html5.png" alt="HTML5" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/javascript.png" alt="JS" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/php.png" alt="PHP" width="24">](https://php.net) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png" alt="MYSQL" width="24">](https://mysql.com) 
 |---|---|---|---|---|---|
