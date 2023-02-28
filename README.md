@@ -22,9 +22,9 @@ Além disso, tenho habilidades em design e programação que me permitem convert
 
 
 ### Github Stats
-
+<p align="center">
 [![Bernardo Meirelles GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardomrl&show_icons=true&count_private=true)](https://github.com/bernardomrl)
-
+</p>
 
 <p align="center">
 <a href="https://bernardomrl.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-bernardomrl.github.io-blue?style=flat&logo=google-chrome"></a>
