@@ -19,11 +19,6 @@ Além disso, tenho habilidades em design e programação que me permitem convert
 | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png" alt="MYSQL" width="24">](https://mysql.com) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCODE" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png" alt="GIT" width="24">](https://git-scm.com/) 
 |---|---|---|
 
-
-### Estatísticas do Github
-
-[![Bernardo Meirelles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardomrl&theme=graywhite&show_icons=true)](https://github.com/bernardomrl)
-
 [![Bernardo Meirelles's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardomrl&show_icons=true&theme=graywhite)](https://github.com/bernardomrl)
 
 ### Entre em contato comigo!
