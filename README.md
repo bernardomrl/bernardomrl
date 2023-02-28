@@ -12,12 +12,10 @@ Além disso, tenho habilidades em design e programação que me permitem convert
 
 ### Linguagens de Programação 🌐
 
-| [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/csharp.png" alt="C#" width="24">](https://learn.microsoft.com/pt-br/dotnet/csharp/) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/css3.png" alt="CSS3" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/html5.png" alt="HTML5" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/javascript.png" alt="JS" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/php.png" alt="PHP" width="24">](https://php.net) 
-|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/csharp.png" alt="C#" width="24">](https://learn.microsoft.com/pt-br/dotnet/csharp/) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/css3.png" alt="CSS3" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/html5.png" alt="HTML5" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/javascript.png" alt="JS" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/php.png" alt="PHP" width="24">](https://php.net) |---|---|---|---|---|
 ### Ferramentas 🛠️
 
-| [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png" alt="MYSQL" width="24">](https://mysql.com) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCODE" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png" alt="GIT" width="24">](https://git-scm.com/) 
-|---|---|---|
+| [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png" alt="MYSQL" width="24">](https://mysql.com) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCODE" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png" alt="GIT" width="24">](https://git-scm.com/) |---|---|---|
 
 
 
@@ -25,7 +23,10 @@ Além disso, tenho habilidades em design e programação que me permitem convert
 
 [![Bernardo Meirelles GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardomrl&show_icons=true&count_private=true)](https://github.com/bernardomrl)
 
-### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bernardomrl&repo=projetos&show_owner=false)](https://github.com/bernardomrl/projetos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bernardomrl&repo=cotemig&show_owner=false)](https://github.com/bernardomrl/cotemig)
+<p align="center">
+<a href="https://bernardomrl.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-bernardomrl.github.io-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/bernardoamrl/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@bernardoamrl-blue?style=flat&logo=linkedin"></a>
+<a href="codepen.io/neotic" target="_blank"><img alt="neotic" src="https://img.shields.io/badge/CodePen-NEOTIC-blue?style=flat&logo=codepen"></a>
+<a href="mailto:bernardomrl@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-bernardomrl@icloud.com-blue?style=flat"></a>
+</p>
