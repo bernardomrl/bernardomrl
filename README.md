@@ -24,11 +24,7 @@ Além disso, tenho habilidades em design e programação que me permitem convert
 
 [![Bernardo Meirelles GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardomrl&show_icons=true&count_private=true)](https://github.com/bernardomrl)
 
-<p>
-<a href="https://bernardomrl.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-bernardomrl.github.io-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/bernardoamrl/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@bernardoamrl-blue?style=flat&logo=linkedin"></a>
-</p>
-<p>
-<a href="codepen.io/neotic" target="_blank"><img alt="neotic" src="https://img.shields.io/badge/CodePen-NEOTIC-blue?style=flat&logo=codepen"></a>
-<a href="mailto:bernardomrl@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-bernardomrl@icloud.com-blue?style=flat"></a>
-</p>
+<div> 
+<a href="https://instagram.com/bernardo.mrl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bernardoamrl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
+</div>
