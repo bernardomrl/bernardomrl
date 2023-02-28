@@ -24,7 +24,7 @@ Além disso, tenho habilidades em design e programação que me permitem convert
 
 [![Bernardo Meirelles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardomrl&theme=graywhite&show_icons=true)](https://github.com/bernardomrl)
 
-<div align="center"> 
+<div> 
 <a href="https://instagram.com/bernardo.mrl" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-%23FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bernardoamrl" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
 <a href="mailto:bernardomrl@icloud.com" target="_blank"><img src="https://img.shields.io/badge/-EMAIL-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
