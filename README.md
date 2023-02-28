@@ -2,7 +2,7 @@
 ##### Seja bem vindo(a) ao meu perfil!
 
 > <b>Desenvolvedor FrontEnd Júnior</b>
-```
+```javascript
 const infos = {
     sobre : {
         idade: 17,
