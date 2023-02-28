@@ -1,10 +1,5 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
-### Olá 👋 Sou o [Bernardo A. Meirelles](https://bernardomrl.netlify.app)
-> Junior FullStack Developer
+### Olá 👋 Sou o [Bernardo](https://bernardomrl.netlify.app)
+> Junior Full Stack Developer
 
 
 <div>
@@ -23,3 +18,4 @@ Além disso, tenho habilidades em design e programação que me permitem convert
 | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/javascript.png" alt="JS" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
 | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/php.png" alt="PHP" width="24">](https://php.net) |
 | [<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png" alt="MYSQL" width="24">](https://mysql.com) |
+|---|---|---|---|---|---|
