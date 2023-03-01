@@ -10,7 +10,7 @@ const infos = {
             cidade: 'Contagem',
             estado: 'Minas Gerais'
         },
-        text: 'Tenho conhecimento em escrever códigos bem
+        texto: 'Tenho conhecimento em escrever códigos bem
         estruturados, testáveis e eficientes, utilizando as melhores
         práticas atuais em desenvolvimento web. Sou um aprendiz rápido,
         esforçado e autodidata, estou ancioso para trabalhar em projetos
