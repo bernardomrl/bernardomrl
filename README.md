@@ -5,6 +5,7 @@
 ```javascript
 const infos = {
     sobre : {
+        nome: 'Bernardo Antonio Meirelles Lima',
         idade: 17,
         localizacao: {
             cidade: 'Contagem',
