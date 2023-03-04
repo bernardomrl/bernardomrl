@@ -22,8 +22,8 @@ const infos = {
             frontEnd: ['HTML', 'CSS', 'JS'],
             backEnd: ['C#', 'PHP', 'MySQL'],
             mobile : {
-                android: 'kotlin',
-                ios: 'swift'
+                android: 'Kotlin',
+                ios: 'Swift'
             }
         },
         ferramentas: ['VSCode', 'Git', 'XCode', 'Android Studio']
