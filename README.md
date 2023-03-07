@@ -19,7 +19,7 @@ const infos = {
     },
     habilidades: {
         linguagens: {
-            frontEnd: ['HTML', 'CSS', 'JS'],
+            frontEnd: ['HTML', 'CSS', 'SCSS', 'JS'],
             backEnd: ['C#', 'PHP', 'MySQL'],
             mobile : {
                 android: 'Kotlin',
