@@ -10,12 +10,7 @@ const infos = {
         localizacao: {
             cidade: 'Contagem',
             estado: 'Minas Gerais'
-        },
-        texto: 'Tenho conhecimento em escrever códigos bem
-        estruturados, testáveis e eficientes, utilizando as melhores
-        práticas atuais em desenvolvimento web. Sou um aprendiz rápido,
-        esforçado e autodidata, estou ancioso para trabalhar em projetos
-        desafiadores e aprender com a equipe.'
+        }
     },
     habilidades: {
         linguagens: {
