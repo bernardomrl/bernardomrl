@@ -22,7 +22,6 @@ const infos = {
             }
         },
         ferramentas: ['VSCode', 'Git', 'XCode', 'Android Studio']
-        obs : 'Estou aprendendo Python atualmente.'
     }
 }
 ```
